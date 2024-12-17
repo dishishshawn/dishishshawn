@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **dishishshawn/dishishshawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+I am Shawn Agarwal, I study Electrical Engineering at The University of Oklahoma pursuing my bachelor's degree.
+
+I enjoy contributing to Open Source Projects and am very enthusiastic about new technology. I enjoy C, Python, and Rust and am currently learning TypeScript and Next.js.
+
+Outside of tech, I love working out, drawing, and making music.
+
+
+
